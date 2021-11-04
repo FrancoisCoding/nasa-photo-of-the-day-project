@@ -6,4 +6,7 @@ export const ReadableText = styled.button`
   line-height: 3.5rem;
   padding: 2rem;
   text-align: left;
+  color: white;
+  background-color: black;
+  width: 50%;
 `;
